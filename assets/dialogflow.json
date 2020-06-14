@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newagent-ppacpo",
+  "private_key_id": "2e6c03ca730e05f5ad4dd300367da2018321c13f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDABrs/2i6tz3Ys\nookLW8wiGtaEs3LgsCMv3MZIlvd/9crLckcG9lBm7x4c9W7eLqaG28dyoWxRTlDW\nktaVZEfwcV/y5iXPIbBZ6WN5vquroQvWvmaz3pBrTTsZpGo7iWo6F3/xhLyfhu0N\nyI/imD+nbRNGNkoChqPQxtEY5LRKMgTPjaRRDfRYQUBu0RakH8mVkRGR1EK+tDSH\nYJzoKUkeHjc3pfWBSoU9GncEy4c88usqAxM3X/y6ieGGV6LQu+74xkS3xgY/VUn9\n2ilYX/sNDAyiZl7lkVALAMevuFbcOJq8pkyUw8XQkI1cBdRYW4oJXn2NRXTj8S22\n4cE7MYhhAgMBAAECggEAR+YdVWahpLWxtzuyWXzpHXn0CWLRaBy7SA//dC2GhTRo\nVq22t34hk7EDku84sFtCQetnrd2QG49ZyEXZr70JDJe+x8lxrbEdAUVYWDzStWQK\n9UB8Xuu+IlccAllj51/n1NF4t9st7wNLniYS7dJ4vv0hwt/P7UsxahoPL6VudfrH\ndXSQWcQCxxrDeYg8FWFwb/sn1f2iHOn7OalTMFJRFZFlk0F80K+CJvq2jM/LM6F9\nCOJvxYAxBlI1gsP6t/RJFCFl6W6O/sPqwQXtg7xsQvSXTK4qooYrMfM8oA7vlmq2\nB/1+mIrgKmwJltrs1kCtqTjRBBrvSY280EZzheyKUwKBgQDfSOtn4hTCBjgV47WT\nG/+VaMX2Tn1P/K1zBGMJpTg7rrnWMUzExJaN/jZZ3nuNpJFJxZlbyxdVvfoPaW26\nZ95DEWoZz5F1RbcfYt61Yh0tjoImxA4g9OLUKi6bzpuDUNGUTBGC9TdTQmvsE1fD\ngWNeswLM3/XYsuYcWX/rWcg3owKBgQDcKVm8oYFOCeOKTQ63js7A1/RiisrxH+3a\nFDTVPv4peVGj/W7frz8uDwBuzM7DFfTXygAkbwh92yDN3Kd/2DJ7nLhoKJXLJiUg\nmzxmkJdBKAsrr49j+bKHimSXimFzS4fyGsSICyqPw2zm0XYfzwJaNkSMVf2hye1j\ndWqEefIQKwKBgA2IWdwd86wevF93QZX86GyhwP3AnA+w/MIvzeDTxqi3WkQFEOYM\nFCPe+GRR+6MGClgyRa0ujeeAcBtnBGN70Bi4gXm2/tXgt8yLLXxIygPs0y6OS1zr\n+qNpOxHuX7aBu3IFejo5qnS9XdUdBwCuYttmdhD8seXEUfX95qbY9i2JAoGAD9wG\ns9jqiKWbt42/fqeR60BjQWoAHoiPSMNl3uqvwmsT331VLFXidj3saQ7l4hXF0nmh\nsv4wnWhYn5vCkSoQ0OjEO/SYfc7co9Gq8zR9QNtSmq4F5UzKeIsWnfgA9x48x8r3\n11j+kuagBKyYFsiBwd/g5j8Xiz0RlbWSm8JxFosCgYEAvOj9DtyFYJM3K/eYM618\nxBVaH8PF78nFyLDxxIV9Bqv1JO4ZwLvOVBs4DTvRqYmPO44eF10gGEVWwYfhkX3I\nECg9vu/TjVk1c2bVi5ts5k7LbXT6TbrnKwOPWCFqidQlgleRmBkUPHRXjRJ80NWO\nEMjGiGRh4u2OHnUKvRv97xY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integrations@newagent-ppacpo.iam.gserviceaccount.com",
+  "client_id": "111419689787396840210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integrations%40newagent-ppacpo.iam.gserviceaccount.com"
+}
